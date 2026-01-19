@@ -7,6 +7,9 @@ Network Fix: Stabilizes ping by filtering distant data packets.
 🛠️ Quick Start
 Run the following script in your executor: 
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nenecosturan/Titanium-Optimizer-Gen2-AI/refs/heads/main/Main.lua"))()
+
+
 License
 This project is licensed under the GPL-3.0 License.
 You must disclose your source code if you distribute a derivative work.
